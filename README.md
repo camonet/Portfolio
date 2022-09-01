@@ -1,22 +1,22 @@
 # Data Science Portfolio
 
 ## Automated ETL pipeline
-This project created an automated pipeline to extract movie data from Wikipedia (JSON) and Kaggle (csv), transform it into a consistent strucure, and thwn upload it into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
+This project created an automated pipeline to extract movie data from Wikipedia (JSON format) and Kaggle (csv), transform it into a consistent strucure, and then upload it into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
 - The transformation step required the creation of various functions to automate tedious and repetitive tasks. 
 - Connecting the script to an SQL database required the utilization of a database engine to automatically import the data into readable and clear tables. 
 
 ## Manipulating Employee Information in pgAdmin
-This project utilized various database managment techniques to gather new information from structured datasets containing employee information. Database keys indentifying relationships between the original tables were created and visualized using an Entity Relationship Diagram (ERD). SQL queries were written to gather specific employee information to create new tables, merge existing tables, and more. 
+This project utilized various database managment techniques to model, engineer, and analyze data from large structured datasets containing employee information. Data modeling consisted of indentifying relationships between each of the tables to create an entity relationship diagram (ERD). In the data engineering phase a database was created, SQL queries were written to create tables, and the data was imported from CSV format. Import errors were also troubleshooted. Finally, analyis was carried out with intermediate level SQL queries utilizing table joins, COUNT, GROUP BY, and ORDER functions, as well as the creation of tailored lists of employee information. 
 
 ## Bikeshare Mapping in Tableau
-Utilized publicly available bike-sharing data to design various worksheets and dashboards in Tableau. 
+Tableau Public was used to create a presentation for a fictional company to assess the success of starting a bikesharing service in Des Moines, Iowa. To adequately tackle the topic of creating a bikeshare startup, publicly available data from CitiBike, a bikeshare service in New York City, was used. CSV files were imported into Tableau Public to create worksheets, dashboards, and stories for the final product. In this project, special attention was placed on visualizing the data in a useful manner, such as knowing the audience, understanding their interests and concerns, and showcasing the data in a way that would satisfy their objectives and outcomes. 
 
 ## Earthquake Mapping with JavaScript
 Created website with interactive map showing real-time events using geoJSON data. 
 
 ## mechaCar Statistical Analysis
 
-## Surfs up
+## Surfs Up
 
 ## VBA 
 
