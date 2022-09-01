@@ -1,10 +1,12 @@
 # Data Science Portfolio
 
 ## Automated ETL pipeline
-The purpose of this analysis was to create an automated pipeline that performs the ETL process completed for movie company "Amazing Prime". Code was  refactored to create a function that extracts in Wikipedia data, Kaggle metadata, and MovieLens rating data, transforms the data, then loads the data into an SQL database. 
+This project created an automated pipeline to extract movie data from Wikipedia (JSON) and Kaggle (csv), transform it into a consistent strucure, and thwn upload it into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
+- The transformation step required the creation of various functions to automate tedious and repetitive tasks. 
+- Connecting the script to an SQL database required the utilization of a database engine to automatically import the data into readable and clear tables. 
 
 ## Manipulating Employee Information in pgAdmin
-Wrote several SQL queries creating new tables, merging datasets, selecting specific information from each table, and more. 
+This project utilized various database managment techniques to gather new information from structured datasets containing employee information. Database keys indentifying relationships between the original tables were created and visualized using an Entity Relationship Diagram (ERD). SQL queries were written to gather specific employee information to create new tables, merge existing tables, and more. 
 
 ## Bikeshare Mapping in Tableau
 Utilized publicly available bike-sharing data to design various worksheets and dashboards in Tableau. 
