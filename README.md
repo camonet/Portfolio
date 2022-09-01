@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Projects
 
 ## Automated ETL pipeline
 This project created an automated pipeline to extract movie data from Wikipedia (JSON format) and Kaggle (csv), transform it into a consistent strucure, and then upload it into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
