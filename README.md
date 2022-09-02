@@ -8,13 +8,18 @@ This project created an automated pipeline to extract movie data from Wikipedia 
 ## [Manipulating Employee Information in pgAdmin](https://github.com/camonet/pewlet-hackard-analysis)
 This project utilized various database managment techniques to model, engineer, and analyze data from large structured datasets containing employee information. Data modeling consisted of indentifying relationships between each of the tables to create an entity relationship diagram (ERD). In the data engineering phase a database was created, SQL queries were written to create tables, and the data was imported from CSV format. Import errors were also troubleshooted. Finally, analyis was carried out with intermediate level SQL queries utilizing multiple kinds of table joins, COUNT, GROUP BY, and ORDER BY functions, as well as the creation of tailored lists of employee information. 
 
-## [Bikeshare Mapping in Tableau](https://github.com/camonet/bikesharing)
+## [Bikeshare Mapping in Tableau](https://github.com/camonet/bikesharing) | [Dashboard Link](https://public.tableau.com/views/Deliverable3_16604564417870/Start-UpPitchDeliverable3?:language=en-US&:display_count=n&:origin=viz_share_link)
 Tableau Public was used to create a presentation for a fictional company to assess the viability of starting a bikesharing service in Des Moines, Iowa. To adequately tackle this challenge, publicly available data from CitiBike, a bikeshare service in New York City, was used. CSV files were imported into Tableau Public to create worksheets, dashboards, and stories for the final product. In this project, special consideration was placed on visualizing the data in a useful manner, which required knowing the audience, understanding their interests and concerns, and showcasing the data in a way that would satisfy their objectives and outcomes. 
 
 ## [Earthquake Mapping with JavaScript and APIs](https://github.com/camonet/mapping-earthquakes)
+To show the differences in magnitude of earthquakes around the world, geographical coordinates and the magnitudes of earthquakes (geoJSON format) for the last seven days were retrived from [USGS's website](usgs.gov). Using  JavaScript, the D3.js library, Leaflet, Mapbox API's, HTML, and CSS, an appealing interactive map was created. Earthquake magnitudes are depicted with varying radii and color, and tectonic plate locations are shown. 
 
+<img width="800" alt="Screen Shot 2022-09-02 at 5 09 19 PM" src="https://user-images.githubusercontent.com/99444856/188241292-5f019cbd-1be8-4fd9-bac9-5c3d4356a8c6.png">
 
-## [mechaCar Statistical Analysis](https://github.com/camonet/mechaCar_statistical_analysis)
+- In the same repository, several different maps were created to showcase using different geoJSON polygon formats
+
+## [Statistics and R](https://github.com/camonet/mechaCar_statistical_analysis)
+This comprehensive project showcases R being used to perform varoius statistical analyses using structured and semi-structured datasets. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. 
 
 ## [Surfs Up](https://github.com/camonet/surfs_up)
 
