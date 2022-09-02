@@ -11,8 +11,8 @@ This project utilized various database managment techniques to model, engineer, 
 ## Bikeshare Mapping in Tableau
 Tableau Public was used to create a presentation for a fictional company to assess the viability of starting a bikesharing service in Des Moines, Iowa. To adequately tackle this challenge, publicly available data from CitiBike, a bikeshare service in New York City, was used. CSV files were imported into Tableau Public to create worksheets, dashboards, and stories for the final product. In this project, special consideration was placed on visualizing the data in a useful manner, which required knowing the audience, understanding their interests and concerns, and showcasing the data in a way that would satisfy their objectives and outcomes. 
 
-## Earthquake Mapping with JavaScript
-Created website with interactive map showing real-time events using geoJSON data. 
+## Earthquake Mapping with JavaScript and APIs
+
 
 ## mechaCar Statistical Analysis
 
