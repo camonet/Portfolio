@@ -19,7 +19,8 @@ To show the differences in magnitude of earthquakes around the world, geographic
 - In the same repository, several different maps were created to showcase using different geoJSON polygon formats
 
 ## [Statistics and R](https://github.com/camonet/mechaCar_statistical_analysis)
-This comprehensive project showcases R being used to perform varoius statistical analyses using structured and semi-structured datasets. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. 
+This comprehensive project showcases R being used to perform various statistical analyses using structured and semi-structured datasets (in csv and JSON formats, as well as built in R datasets). Data was selected from each table using various functions, using bracket notation, using the $ operator, with logic, and with the subset() and sample() funcitons. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. Functions used were included mutate(), group_by(), summarize(), gather(), spread(), and more. To visualize data, R's ggplot library was used to create various graphs with different aestheitcs. 
+The analysis portion of the project saw the utilization of several statistical tests, including analysis of means, regression, and more. 
 
 ## [Surfs Up](https://github.com/camonet/surfs_up)
 
