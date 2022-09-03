@@ -20,9 +20,10 @@ To show the differences in magnitude of earthquakes around the world, geographic
 
 ## [Statistics and R](https://github.com/camonet/mechaCar_statistical_analysis)
 This comprehensive project showcases R being used to perform various statistical analyses using structured and semi-structured datasets (in csv and JSON formats, as well as built in R datasets). Data was selected from each table using various functions, using bracket notation, using the $ operator, with logic, and with the subset() and sample() funcitons. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. Functions used were included mutate(), group_by(), summarize(), gather(), spread(), and more. To visualize data, R's ggplot library was used to create various graphs with different aestheitcs. 
-The analysis portion of the project saw the utilization of several statistical tests, including analysis of means, regression, and more. 
+The analysis portion of the project required a working knowledge of different statistical test types, data types, data testing procedures (testing for normality, skew, etc), as well as understanding the results of statistical tests. 
 
-## [Surfs Up](https://github.com/camonet/surfs_up)
+## [Advanced Data Storage and Retrieval](https://github.com/camonet/surfs_up)
+- This project retrieved, anaylized, and visualized weather trends in Hawaii on a locally hosted application using SQLite, SQLAlchemy, and Flask. Python libraries pandas and matplotlib allowed us to analyse and visualize the data. SQLite was used to store Hawaii's precipitation data; an SQLAlchemy environment was initiated to connect to the SQLite database. The data was retrieved and saved in a pandas dataframe on jupyter notebook, where dataframe data was sorted based on a desired values, such as date. Selected data, such as precipitation trends was plotted using matplotlib. The summary statistics of the data were retrieved using df.describe(). Flask was then incorporated into data analysis to share data visualizations, and several routes were created to separate each portion of the project. 
 
 ## [Stock Analysis](https://github.com/camonet/stock-analysis)
 
