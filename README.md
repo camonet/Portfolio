@@ -36,5 +36,5 @@ This project retrieved, anaylized, and visualized weather trends in Hawaii on a 
 > <img width="273" alt="Screen Shot 2022-09-04 at 1 56 42 PM" src="https://user-images.githubusercontent.com/99444856/188329193-19c056f8-d55c-4385-b2f3-e8851cdb8459.png">
 
 ## [Excel KickStarter Analysis](https://github.com/camonet/kickstarter-analysis)
-> <img width="851" alt="Screen Shot 2022-09-04 at 1 59 47 PM" src="https://user-images.githubusercontent.com/99444856/188329318-0bb73f45-e1b0-4f50-92af-44e8eff41b96.png">
+> <img width="600" alt="Screen Shot 2022-09-04 at 1 59 47 PM" src="https://user-images.githubusercontent.com/99444856/188329318-0bb73f45-e1b0-4f50-92af-44e8eff41b96.png">
 
