@@ -2,9 +2,9 @@
 Each project title links to the project repository
 
 ## [Automated ETL pipeline](https://github.com/camonet/movies-ETL)
-This project created an automated pipeline to extract movie data from Wikipedia (JSON format) and Kaggle (csv), transform it into a consistent strucure, and then upload it into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
-- The transformation step required using functions with various tools, including for loops, if else statements, lambda functions, and regular expressions to automate tedious and repetitive tasks. 
-- Connecting the script to an SQL database required the utilization of a database engine to automatically import the data into readable and clear tables. 
+This project created an automated pipeline to extract raw movie data from Wikipedia (JSON format) and Kaggle (csv), transform it into a consistent structure, and then upload the transformed data into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
+- The transformation step required using functions with various tools, including for loops, if else statements, lambda functions, and regular expressions to automate tedious and repetitive tasks, such as parsing the data and converting regular text into numbers.
+- Connecting the script to an SQL database required creating a PostgreSQL database engine to automatically import the data into readable and clear tables. 
 
 Example code 
 > <img width="777" alt="Screen Shot 2022-09-03 at 11 41 37 PM" src="https://user-images.githubusercontent.com/99444856/188297714-97cd6cf0-4b3a-4dc8-8b0d-20f3986f9cea.png">
@@ -24,7 +24,7 @@ To show the differences in magnitude of earthquakes around the world, geographic
 - In the same repository, several different maps were created to showcase using different geoJSON polygon formats
 
 ## [Statistics and R](https://github.com/camonet/mechaCar_statistical_analysis)
-This comprehensive project showcases R being used to perform various statistical analyses using structured and semi-structured datasets (in csv and JSON formats, as well as built in R datasets). Data was selected from each table using various functions, using bracket notation, using the $ operator, with logic, and with the subset() and sample() funcitons. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. Functions used were included mutate(), group_by(), summarize(), gather(), spread(), and more. To visualize data, R's ggplot library was used to create various graphs with different aestheitcs. 
+This comprehensive project showcases R being used to perform various statistical analyses using structured and semi-structured datasets (in csv and JSON formats, as well as built in R datasets). Data was selected from each table using various functions, using bracket notation, using the $ operator, with logic, and with the subset() and sample() funcitons. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. Functions used included mutate(), group_by(), summarize(), gather(), spread(), and more. To visualize data, R's ggplot library was used to create various graphs with different aesthetics. 
 The analysis portion of the project required a working knowledge of different statistical test types, data types, data testing procedures (testing for normality, skew, etc), as well as understanding the results of statistical tests. 
 
 ## [Advanced Data Storage and Retrieval](https://github.com/camonet/surfs_up)
@@ -32,9 +32,9 @@ This project retrieved, anaylized, and visualized weather trends in Hawaii on a 
 
 ## [VBA Stock Analysis](https://github.com/camonet/stock-analysis)
 
-
-
+> <img width="541" alt="Screen Shot 2022-09-04 at 1 56 04 PM" src="https://user-images.githubusercontent.com/99444856/188329171-444c9897-2723-4877-8b33-8b6fad72a3e1.png">
+> <img width="273" alt="Screen Shot 2022-09-04 at 1 56 42 PM" src="https://user-images.githubusercontent.com/99444856/188329193-19c056f8-d55c-4385-b2f3-e8851cdb8459.png">
 
 ## [Excel KickStarter Analysis](https://github.com/camonet/kickstarter-analysis)
-
+> <img width="851" alt="Screen Shot 2022-09-04 at 1 59 47 PM" src="https://user-images.githubusercontent.com/99444856/188329318-0bb73f45-e1b0-4f50-92af-44e8eff41b96.png">
 
