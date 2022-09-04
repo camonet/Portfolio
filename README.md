@@ -30,7 +30,9 @@ The analysis portion of the project required a working knowledge of different st
 ## [Advanced Data Storage and Retrieval](https://github.com/camonet/surfs_up)
 This project retrieved, anaylized, and visualized weather trends in Hawaii on a locally hosted application using SQLite, SQLAlchemy, and Flask. Python libraries pandas and matplotlib allowed us to analyse and visualize the data. SQLite was used to store Hawaii's precipitation data; an SQLAlchemy environment was initiated to connect to the SQLite database. The data was retrieved and saved in a pandas dataframe on jupyter notebook, where dataframe data was sorted based on a desired values, such as date. Selected data, such as precipitation trends was plotted using matplotlib. The summary statistics of the data were retrieved using df.describe(). Flask was then incorporated into data analysis to share data visualizations, and several routes were created to separate each portion of the project. 
 
-## [Stock Analysis](https://github.com/camonet/stock-analysis)
+## [VBA Stock Analysis](https://github.com/camonet/stock-analysis)
+
+
 
 
 ## [Excel KickStarter Analysis](https://github.com/camonet/kickstarter-analysis)
