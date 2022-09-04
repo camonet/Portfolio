@@ -1,9 +1,14 @@
 # Data Science Projects
+Each project title links to the project repository
 
 ## [Automated ETL pipeline](https://github.com/camonet/movies-ETL)
 This project created an automated pipeline to extract movie data from Wikipedia (JSON format) and Kaggle (csv), transform it into a consistent strucure, and then upload it into an SQL database. Creating the pipeline utilized Python, pandas libraries, SQL, PostgreSQL, and more. 
-- The transformation step required the creation of various functions to automate tedious and repetitive tasks. 
+- The transformation step required using functions with various tools, including for loops, if else statements, lambda functions, and regular expressions to automate tedious and repetitive tasks. 
 - Connecting the script to an SQL database required the utilization of a database engine to automatically import the data into readable and clear tables. 
+
+Example code 
+> <img width="777" alt="Screen Shot 2022-09-03 at 11 41 37 PM" src="https://user-images.githubusercontent.com/99444856/188297714-97cd6cf0-4b3a-4dc8-8b0d-20f3986f9cea.png">
+
 
 ## [Manipulating Employee Information in pgAdmin](https://github.com/camonet/pewlet-hackard-analysis)
 This project utilized various database managment techniques to model, engineer, and analyze data from large structured datasets containing employee information. Data modeling consisted of indentifying relationships between each of the tables to create an entity relationship diagram (ERD). In the data engineering phase a database was created, SQL queries were written to create tables, and the data was imported from CSV format. Import errors were also troubleshooted. Finally, analyis was carried out with intermediate level SQL queries utilizing multiple kinds of table joins, COUNT, GROUP BY, and ORDER BY functions, as well as the creation of tailored lists of employee information. 
@@ -23,9 +28,10 @@ This comprehensive project showcases R being used to perform various statistical
 The analysis portion of the project required a working knowledge of different statistical test types, data types, data testing procedures (testing for normality, skew, etc), as well as understanding the results of statistical tests. 
 
 ## [Advanced Data Storage and Retrieval](https://github.com/camonet/surfs_up)
-- This project retrieved, anaylized, and visualized weather trends in Hawaii on a locally hosted application using SQLite, SQLAlchemy, and Flask. Python libraries pandas and matplotlib allowed us to analyse and visualize the data. SQLite was used to store Hawaii's precipitation data; an SQLAlchemy environment was initiated to connect to the SQLite database. The data was retrieved and saved in a pandas dataframe on jupyter notebook, where dataframe data was sorted based on a desired values, such as date. Selected data, such as precipitation trends was plotted using matplotlib. The summary statistics of the data were retrieved using df.describe(). Flask was then incorporated into data analysis to share data visualizations, and several routes were created to separate each portion of the project. 
+This project retrieved, anaylized, and visualized weather trends in Hawaii on a locally hosted application using SQLite, SQLAlchemy, and Flask. Python libraries pandas and matplotlib allowed us to analyse and visualize the data. SQLite was used to store Hawaii's precipitation data; an SQLAlchemy environment was initiated to connect to the SQLite database. The data was retrieved and saved in a pandas dataframe on jupyter notebook, where dataframe data was sorted based on a desired values, such as date. Selected data, such as precipitation trends was plotted using matplotlib. The summary statistics of the data were retrieved using df.describe(). Flask was then incorporated into data analysis to share data visualizations, and several routes were created to separate each portion of the project. 
 
 ## [Stock Analysis](https://github.com/camonet/stock-analysis)
+
 
 ## [Excel KickStarter Analysis](https://github.com/camonet/kickstarter-analysis)
 
