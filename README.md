@@ -31,10 +31,13 @@ The analysis portion of the project required a working knowledge of different st
 This project retrieved, anaylized, and visualized weather trends in Hawaii on a locally hosted application using SQLite, SQLAlchemy, and Flask. Python libraries pandas and matplotlib allowed us to analyse and visualize the data. SQLite was used to store Hawaii's precipitation data; an SQLAlchemy environment was initiated to connect to the SQLite database. The data was retrieved and saved in a pandas dataframe on jupyter notebook, where dataframe data was sorted based on a desired values, such as date. Selected data, such as precipitation trends was plotted using matplotlib. The summary statistics of the data were retrieved using df.describe(). Flask was then incorporated into data analysis to share data visualizations, and several routes were created to separate each portion of the project. 
 
 ## [VBA Stock Analysis](https://github.com/camonet/stock-analysis)
-
+Using stock data for 12 stocks for the years of 2017 and 2018, a VBA macro was created to find the total daily volume and the yearly return for each stock. The macro could create pop-ups, input boxes, read, change, and format cell values. The project emphasized writing efficient and readable code by using for-loops, nested for-loops and conditionals. Additionally, the VBA macro measured the performance of code using VBA's Timer function. 
+The figure below show how positive yearly returns were formatted in green and negative in red. A button was created to easily run the macro, and the input box is shown asking what year the analysis is to be run on. 
 > <img width="541" alt="Screen Shot 2022-09-04 at 1 56 04 PM" src="https://user-images.githubusercontent.com/99444856/188329171-444c9897-2723-4877-8b33-8b6fad72a3e1.png">
 > <img width="273" alt="Screen Shot 2022-09-04 at 1 56 42 PM" src="https://user-images.githubusercontent.com/99444856/188329193-19c056f8-d55c-4385-b2f3-e8851cdb8459.png">
 
 ## [Excel KickStarter Analysis](https://github.com/camonet/kickstarter-analysis)
+
+
 > <img width="600" alt="Screen Shot 2022-09-04 at 1 59 47 PM" src="https://user-images.githubusercontent.com/99444856/188329318-0bb73f45-e1b0-4f50-92af-44e8eff41b96.png">
 
