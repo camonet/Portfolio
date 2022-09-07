@@ -24,7 +24,7 @@ To show the differences in magnitude of earthquakes around the world, geographic
 - In the same repository, several different maps were created to showcase using different geoJSON polygon formats
 
 ## [Statistics and R](https://github.com/camonet/mechaCar_statistical_analysis)
-This comprehensive project showcases R being used to perform various statistical analyses using structured and semi-structured datasets (in csv and JSON formats, as well as built in R datasets). Data was selected from each table using various functions, using bracket notation, using the $ operator, with logic, and with the subset() and sample() funcitons. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. Functions used included mutate(), group_by(), summarize(), gather(), spread(), and more. To visualize data, R's ggplot library was used to create various graphs with different aesthetics. 
+This comprehensive project showcases R being used to perform various statistical analyses using structured and semi-structured datasets (in csv and JSON formats, as well as built in R datasets). Data was selected from each table using various functions, using bracket notation, using the $ operator, with logic, and with the subset() and sample() functions. The Tidyverse package was used to transform, group, and reshape data to suit the needs of the analysis. Functions used included mutate(), group_by(), summarize(), gather(), spread(), and more. To visualize data, R's ggplot library was used to create various graphs with different aesthetics. 
 The analysis portion of the project required a working knowledge of different statistical test types, data types, data testing procedures (testing for normality, skew, etc), as well as understanding the results of statistical tests. 
 
 ## [Advanced Data Storage and Retrieval](https://github.com/camonet/surfs_up)
@@ -37,7 +37,8 @@ The figure below show how positive yearly returns were formatted in green and ne
 > <img width="273" alt="Screen Shot 2022-09-04 at 1 56 42 PM" src="https://user-images.githubusercontent.com/99444856/188329193-19c056f8-d55c-4385-b2f3-e8851cdb8459.png">
 
 ## [Excel KickStarter Analysis](https://github.com/camonet/kickstarter-analysis)
-
-
+- Organized, sorted, and analyzed crowdfunding data for theater plays to determine if there are variables that contribute to a crowdfund's success. 
+- Organizing and sorting the data consited of applying filters, conditional formatting, and formulas. Pivot tables were generated and interpereted, and summary statistics for different variables were retrieved. 
+- Outliers were also accounted for, and vizualizatons were created. 
 > <img width="600" alt="Screen Shot 2022-09-04 at 1 59 47 PM" src="https://user-images.githubusercontent.com/99444856/188329318-0bb73f45-e1b0-4f50-92af-44e8eff41b96.png">
 
